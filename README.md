@@ -1,3 +1,5 @@
+# About
+
 ## Indonesian AI Research 🇮🇩
 
 We are a team of Machine Learning enthusiasts who love to experiment with the latest state-of-the-art technology and publish the result as an Open-Source product.
@@ -7,7 +9,7 @@ We built this website to encourage further advancements on the field of all thin
 ## Links
 
 - [Our Projects](../projects)
-- [NLP Resources](../nlp-resources)
+- [NLP Resources](../resources)
 - [HuggingFace 🤗 Organization](https://huggingface.co/indonesian-nlp/)
 - [Github Organization](https://github.com/indonesian-nlp/)
 
@@ -17,5 +19,7 @@ We built this website to encourage further advancements on the field of all thin
   <img src="https://contrib.rocks/image?repo=nlp-id/nlp-id.github.io" />
 </a>
 
-> Feel free to contribute to this project through our Github [repository](https://github.com/indonesian-nlp/nlp-resources).
-> This project is greatly inspired by [NLP For Thai](https://nlpforthai.com/).
+!!! info
+
+    Feel free to contribute to this project through our Github [repository](https://github.com/indonesian-nlp/nlp-resources).
+    This project is greatly inspired by [NLP For Thai](https://nlpforthai.com/) and [MasakhaneNLP](https://www.masakhane.io/).
