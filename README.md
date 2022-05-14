@@ -18,8 +18,3 @@ We built this website to encourage further advancements on the field of all thin
 <a href="https://github.com/nlp-id/nlp-id.github.io/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=nlp-id/nlp-id.github.io" />
 </a>
-
-!!! info
-
-    Feel free to contribute to this project through our Github [repository](https://github.com/indonesian-nlp/nlp-resources).
-    This project is greatly inspired by [NLP For Thai](https://nlpforthai.com/) and [MasakhaneNLP](https://www.masakhane.io/).
