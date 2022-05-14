@@ -12,8 +12,8 @@ We built this website to encourage further advancements on the field of all thin
 
 ## Links
 
-- [Our Projects](../projects)
-- [NLP Resources](../resources)
+- [Our Projects](projects)
+- [NLP Resources](resources)
 - [HuggingFace 🤗 Organization](https://huggingface.co/indonesian-nlp/)
 - [Github Organization](https://github.com/indonesian-nlp/)
 
