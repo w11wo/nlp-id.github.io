@@ -1,22 +1,8 @@
----
-title: "Indonesian Text2Text Generation"
-subtitle: "Models and its Dataset for Indonesian Text2Text Generation"
-excerpt: "The task of producing a shorter version of one or several documents that preserves most of the input's meaning"
-date: 2021-06-01
-author: "Wilson Wongso, Steven Limcorn and AI-Research.id team"
-draft: false
-layout: list-sidebar
-images:
-- /blog/assets/css-grid-thumbnail.png
-series:
-- huggingface jax flax event
-tags:
-- T5
-- Language Model
-categories:
-# layout options: single or single-sidebar
-layout: single-sidebar
----
+# Text2Text Generation
+
+!!! summary
+
+    _The task of producing a shorter version of one or several documents that preserves most of the input's meaning_
 
 ## Models
 

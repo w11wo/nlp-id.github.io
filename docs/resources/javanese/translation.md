@@ -1,25 +1,8 @@
----
-title: "Javanese Machine Translation"
-subtitle: "Models and its Dataset for Javanese Machine Translation"
-excerpt: "Machine Translation is the task of automatically converting one natural language into another, preserving the meaning of the input text, and producing fluent text in the output language."
-date: 2021-06-01
-author: "Wilson Wongso, Steven Limcorn and AI-Research.id team"
-draft: false
-layout: list-sidebar
-images:
-- /blog/assets/css-grid-thumbnail.png
-series:
-- huggingface jax flax event
-tags:
-- GPT-2
-- Machine Translation
-- Opus
-- T5
-- Language Model
-categories:
-# layout options: single or single-sidebar
-layout: single-sidebar
----
+# Translation
+
+!!! summary
+
+    _The task of automatically converting one natural language into another, preserving the meaning of the input text, and producing fluent text in the output language._
 
 ## Models
 

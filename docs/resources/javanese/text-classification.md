@@ -1,24 +1,8 @@
----
-title: "Javanese Text Classification"
-subtitle: "Models and its Dataset for Javanese Text Classification"
-excerpt: "Text Classification is the processing of labeling or organizing text data into groups. It forms a fundamental part of Natural Language Processing."
-date: 2021-06-01
-author: "Wilson Wongso, Steven Limcorn and AI-Research.id team"
-draft: false
-layout: list-sidebar
-images:
-- /blog/assets/css-grid-thumbnail.png
-series:
-- huggingface jax flax event
-tags:
-- GPT-2
-- BERT
-- RoBERTa
-- Language Model
-categories:
-# layout options: single or single-sidebar
-layout: single-sidebar
----
+# Text Classification
+
+!!! summary
+
+    _The process of labeling, organizing, or categorizing text data into groups. It forms a fundamental part of Natural Language Understanding (NLU)._
 
 ## Models
 

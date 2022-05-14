@@ -1,5 +1,7 @@
-site_name: Indonesian NLP Resources
-repo_url: https://github.com/indonesian-nlp/nlp-resources
+site_name: Indonesian AI Research
+repo_url: https://github.com/w11wo/nlp-resources
+docs_dir: docs
+
 theme:
   name: material
   palette:
@@ -8,13 +10,21 @@ theme:
       primary: indigo
       accent: indigo
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-night
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: red
       accent: red
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-sunny
         name: Switch to light mode
-docs_dir: nlp-resources
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition

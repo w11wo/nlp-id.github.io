@@ -1,23 +1,8 @@
----
-title: "Indonesian Question Answering"
-subtitle: "Indonesian Question Answering and its Datasets"
-excerpt: "Building Systems that automatically answer questions posed by humans in a natural language"
-date: 2021-06-01
-author: "Wilson Wongso, Steven Limcorn and AI-Research.id team"
-draft: false
-layout: list-sidebar
-images:
-- /blog/assets/css-grid-thumbnail.png
-series:
-- huggingface jax flax event
-tags:
-- BERT
-- RoBERTa
-- Language Model
-categories:
-# layout options: single or single-sidebar
-layout: single-sidebar
----
+# Question Answering
+
+!!! summary
+
+    _Systems that automatically answers questions posed by humans in a natural language._
 
 ## Models
 

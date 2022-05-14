@@ -1,25 +1,8 @@
----
-title: "Indonesian Text Summarization"
-subtitle: "Model and its Dataset for Indonesian Text Summarization"
-excerpt: "The task of producing a shorter version of one or several documents that preserves most of the input's meaning"
-date: 2021-06-01
-author: "Wilson Wongso, Steven Limcorn and AI-Research.id team"
-draft: false
-layout: list-sidebar
-images:
-- /blog/assets/css-grid-thumbnail.png
-series:
-- huggingface jax flax event
-tags:
-- GPT-2
-- T5
-- BERT
-- BART
-- Language Model
-categories:
-# layout options: single or single-sidebar
-layout: single-sidebar
----
+# Text Summarization
+
+!!! summary
+
+    _The task of producing a shorter version of one or several documents that preserves most of the input's meaning._
 
 ## Models
 

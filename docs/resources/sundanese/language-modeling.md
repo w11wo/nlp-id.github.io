@@ -1,24 +1,15 @@
----
-title: "Sundanese Language Model"
-subtitle: "Sundanese Language Models and its Dataset"
-excerpt: "Language Model is a model that computes probability of a sentence (sequence of words) or the probability of a next word in a sequence."
-date: 2021-06-01
-author: "Wilson Wongso, Steven Limcorn and AI-Research.id team"
-draft: false
-layout: list-sidebar
-images:
-- /blog/assets/css-grid-thumbnail.png
-series:
-- huggingface jax flax event
-tags:
-- GPT-2
-- BERT
-- RoBERTa
-- Language Model
-categories:
-# layout options: single or single-sidebar
-layout: single-sidebar
----
+# Language Modeling
+
+!!! summary
+
+    _Models that compute probability of a sentence (sequence of words) or the probability of a next word in a sequence._
+
+## Models
+
+| Name                   | Description                                                                                                                                                                                                                                 | Author        | Link                                                               |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------ |
+| Sundanese GPT-2 Base   | Sundanese GPT-2 Base is a causal language model based on the OpenAI GPT-2 model. It was trained on four datasets: OSCAR's unshuffled_deduplicated_su subset, the Sundanese mC4 subset, the Sundanese CC100 subset, and Sundanese Wikipedia. | Wilson Wongso | [HuggingFace](https://huggingface.co/w11wo/sundanese-gpt2-base)    |
+| Sundanese RoBERTa Base | Sundanese RoBERTa Base is a masked language model based on the RoBERTa model. It was trained on four datasets: OSCAR's unshuffled_deduplicated_su subset, the Sundanese mC4 subset, the Sundanese CC100 subset, and Sundanese Wikipedia.    | Wilson Wongso | [HuggingFace](https://huggingface.co/w11wo/sundanese-roberta-base) |
 
 ## Datasets
 

@@ -1,24 +1,8 @@
----
-title: "Indonesian Language Model"
-subtitle: "Indonesian Language Models and its Dataset"
-excerpt: "Language Model is a model that computes probability of a sentence (sequence of words) or the probability of a next word in a sequence."
-date: 2021-06-01
-author: "Wilson Wongso, Steven Limcorn and AI-Research.id team"
-draft: false
-layout: list-sidebar
-images:
-- /blog/assets/css-grid-thumbnail.png
-series:
-- huggingface jax flax event
-tags:
-- GPT-2
-- BERT
-- RoBERTa
-- Language Model
-categories:
-# layout options: single or single-sidebar
-layout: single-sidebar
----
+# Language Modeling
+
+!!! summary
+
+    _Models that compute probability of a sentence (sequence of words) or the probability of a next word in a sequence._
 
 ## Masked Language Models
 

@@ -1,23 +1,8 @@
----
-title: "Sundanese Token Classification"
-subtitle: "Models and its Dataset for Sundanese Token Classification"
-excerpt: "The Token classification Task is similar to text classification, except each token within the text receives a prediction. A common use of this task is Named Entity Recognition (NER)."
-date: 2021-06-01
-author: "Wilson Wongso, Steven Limcorn and AI-Research.id team"
-draft: false
-layout: list-sidebar
-images:
-- /blog/assets/css-grid-thumbnail.png
-series:
-- huggingface jax flax event
-tags:
-- BERT
-- RoBERTa
-- Language Model
-categories:
-# layout options: single or single-sidebar
-layout: single-sidebar
----
+# Token Classification
+
+!!! summary
+
+    _The Token classification task is similar to text classification, except each token within the text receives a prediction. A common use of this task is Named Entity Recognition (NER) and Part-of-Speech Tagging (POS Tagging)._
 
 ## Datasets
 
